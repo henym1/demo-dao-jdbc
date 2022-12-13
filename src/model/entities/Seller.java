@@ -43,12 +43,12 @@ public class Seller implements Serializable {
 		this.name = name;
 	}
 
-	public String getEmial() {
+	public String getEmail() {
 		return email;
 	}
 
-	public void setEmial(String emial) {
-		this.email = emial;
+	public void setEmail(String email) {
+		this.email = email;
 	}
 
 	public Date getBirthDate() {
